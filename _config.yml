@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jason Loh / Homepage"
+title                    : "Xin Liu / Homepage"
 title_separator          : "-"
-name                     : &name "Jia-Chng (Jason) Loh"
+name                     : &name "Xin Liu"
 description              : &description "personal description"
-url                      : https://j7sz.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://asaki-kiri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
@@ -22,7 +22,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Jia-Chng (Jason) Loh"
+  name             : "Xin Liu"
   pronouns         : # example: "she/her"  
   bio              : "Hello World"
   location         : "Australia"
@@ -32,9 +32,9 @@ author:
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=SCBTnuwAAAAJ&hl=en"
+  googlescholar    : "https://scholar.google.com/citations?user=nzb5e4gAAAAJ&hl=en&oi=sra"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0003-2091-6393"
+  orcid            : "https://orcid.org/0000-0003-1026-3712"
   semantic         : # URL
   pubmed           : #""
   researchgate     : # URL
@@ -43,7 +43,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "j7sz"
+  github           : #"j7sz"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
@@ -57,7 +57,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "j7sz"# Username
+  linkedin         : #"j7sz"# Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
